@@ -1,0 +1,6 @@
+dependencies:
+- name: foobar
+  repository: file://../foobar
+  version: 0.1.0
+digest: sha256:d7778104112959a54cb050df4b80602abef8e6abb43cd6f7702be478d28c9f50
+generated: "2021-06-07T15:33:53.774137-04:00"
